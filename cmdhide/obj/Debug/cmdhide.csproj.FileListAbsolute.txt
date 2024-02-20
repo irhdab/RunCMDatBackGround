@@ -1,0 +1,10 @@
+D:\programming\cmdhide\cmdhide\bin\Debug\cmdhide.exe.config
+D:\programming\cmdhide\cmdhide\bin\Debug\cmdhide.exe
+D:\programming\cmdhide\cmdhide\bin\Debug\cmdhide.pdb
+D:\programming\cmdhide\cmdhide\obj\Debug\cmdhide.csproj.AssemblyReference.cache
+D:\programming\cmdhide\cmdhide\obj\Debug\cmdhide.Form1.resources
+D:\programming\cmdhide\cmdhide\obj\Debug\cmdhide.Properties.Resources.resources
+D:\programming\cmdhide\cmdhide\obj\Debug\cmdhide.csproj.GenerateResource.cache
+D:\programming\cmdhide\cmdhide\obj\Debug\cmdhide.csproj.CoreCompileInputs.cache
+D:\programming\cmdhide\cmdhide\obj\Debug\cmdhide.exe
+D:\programming\cmdhide\cmdhide\obj\Debug\cmdhide.pdb

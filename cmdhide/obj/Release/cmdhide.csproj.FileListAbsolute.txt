@@ -1,0 +1,9 @@
+D:\programming\cmdhide\cmdhide\bin\Release\cmdhide.exe.config
+D:\programming\cmdhide\cmdhide\bin\Release\cmdhide.exe
+D:\programming\cmdhide\cmdhide\bin\Release\cmdhide.pdb
+D:\programming\cmdhide\cmdhide\obj\Release\cmdhide.Form1.resources
+D:\programming\cmdhide\cmdhide\obj\Release\cmdhide.Properties.Resources.resources
+D:\programming\cmdhide\cmdhide\obj\Release\cmdhide.csproj.GenerateResource.cache
+D:\programming\cmdhide\cmdhide\obj\Release\cmdhide.csproj.CoreCompileInputs.cache
+D:\programming\cmdhide\cmdhide\obj\Release\cmdhide.exe
+D:\programming\cmdhide\cmdhide\obj\Release\cmdhide.pdb
