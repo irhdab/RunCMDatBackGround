@@ -1,2 +1,3 @@
-# RunCMDatBackGround
-Run your cmd script background at windows..
+# Run windows commad on background
+
+Run your command script at background by C#
